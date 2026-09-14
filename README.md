@@ -37,6 +37,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
@@ -163,6 +164,7 @@
 | [0152-maximum-product-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
