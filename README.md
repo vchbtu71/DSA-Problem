@@ -31,6 +31,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -215,6 +216,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0724-find-pivot-index](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0724-find-pivot-index/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
