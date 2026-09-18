@@ -41,6 +41,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
@@ -220,6 +221,7 @@
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
