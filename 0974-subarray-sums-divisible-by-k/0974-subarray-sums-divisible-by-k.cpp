@@ -13,9 +13,10 @@ public:
             if(rem< 0){
                 rem +=k;  //make it positive number
             }
-            if(mp[rem] > 0){
-                count += mp[rem];
-            }
+            // if(mp[rem] > 0){
+            //     count += mp[rem];
+            // }
+            count += mp[rem];
             mp[rem]++;
 
         }
