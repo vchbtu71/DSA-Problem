@@ -24,14 +24,6 @@ public:
                 int len = i-idx;
                 res =max(res,len);
             }
-            // if(f.find(diff) == f.end()){
-            //     f[diff] = i;
-            // }
-            // else{
-            //     int idx = f[diff];
-            //     int len = i-idx;
-            //     res =max(res,len);
-            // }
         }
         return res;
     }
