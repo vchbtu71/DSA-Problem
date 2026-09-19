@@ -16,6 +16,7 @@ public:
             // if(mp[rem] > 0){
             //     count += mp[rem];
             // }
+            //upar wala aur neeche wala same h jb ek baar hashmap me count 1 ho gya to hmesha 1 se jyada rhega isiliye neeche wala bhi kr skte h seedha count ko badha ke
             count += mp[rem];
             mp[rem]++;
 
