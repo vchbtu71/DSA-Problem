@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -120,6 +121,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0016-3sum-closest/) | Medium |
+| [0056-merge-intervals](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
@@ -282,4 +284,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
