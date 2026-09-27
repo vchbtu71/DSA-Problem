@@ -16,6 +16,7 @@
 | [0041-first-missing-positive](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
