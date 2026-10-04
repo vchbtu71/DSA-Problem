@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -138,6 +139,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
@@ -225,6 +227,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -286,10 +289,12 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -308,4 +313,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
