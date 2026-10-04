@@ -51,6 +51,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
@@ -245,6 +246,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +303,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
