@@ -249,6 +249,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0155-min-stack](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0155-min-stack/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -314,4 +315,8 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0239-sliding-window-maximum/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
