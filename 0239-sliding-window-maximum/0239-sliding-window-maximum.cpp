@@ -16,11 +16,13 @@ public:
             st.push(i);
         }
         vector <int> ans;
+        int j=0;
         for(int i=0; i<n-k+1; i++){
+            if(j<i) j=i;
             int mx = arr[i]; //starting of window se
-            int j = i;
             while(j < i+k){ //means if nge is inside window
                 mx = arr[j];
+                if(ngi[j] >= i+k) break;
                 j = ngi[j];
             }
             ans.push_back(mx);
