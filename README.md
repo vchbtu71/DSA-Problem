@@ -33,6 +33,7 @@
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -252,6 +253,7 @@
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0155-min-stack/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -314,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Range Minimum/Maximum Query
