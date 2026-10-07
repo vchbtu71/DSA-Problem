@@ -40,6 +40,7 @@
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -251,6 +252,7 @@
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Matrix
@@ -312,6 +314,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
