@@ -266,6 +266,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0022-generate-parentheses/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
