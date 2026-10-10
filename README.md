@@ -122,6 +122,7 @@
 | [0383-ransom-note](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0392-is-subsequence/) | Easy |
+| [0409-longest-palindrome](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0520-detect-capital/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -165,6 +166,7 @@
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -190,6 +192,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0409-longest-palindrome](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
