@@ -37,6 +37,7 @@
 | [0523-continuous-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0622-design-circular-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0704-binary-search/) | Easy |
@@ -307,12 +308,14 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0622-design-circular-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0622-design-circular-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0622-design-circular-queue/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -343,4 +346,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0155-min-stack/) | Medium |
+| [0622-design-circular-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
