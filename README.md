@@ -126,6 +126,7 @@
 | [0409-longest-palindrome](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0520-detect-capital/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -196,6 +197,7 @@
 | [0409-longest-palindrome](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@
 | [0152-maximum-product-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -268,6 +271,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0155-min-stack/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -287,6 +291,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
