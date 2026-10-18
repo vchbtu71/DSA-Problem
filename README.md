@@ -115,6 +115,7 @@
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0076-minimum-window-substring/) | Hard |
@@ -203,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0392-is-subsequence/) | Easy |
@@ -268,6 +270,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0155-min-stack/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -291,6 +294,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
