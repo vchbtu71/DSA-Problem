@@ -6,38 +6,34 @@ public:
         
     }
     
-    void push(int x) {
-        st.push(x);
+    void push(int x) { //O(n)
+    //push at bottom
+        if(st.size()==0){
+            st.push(x);
+            return;
+        }
+        else{
+            while(st.size()>0){
+                helper.push(st.top());
+                st.pop();
+            }
+            st.push(x);
+            while(helper.size()>0){
+                st.push(helper.top());
+                helper.pop();
+            }
+        }
     }
     
-    int pop() {  //O(n)
-        //remove at bottom using helper stack
-        while(st.size()>0){
-            helper.push(st.top());
-            st.pop();
-        }
-        int x= helper.top();
-        helper.pop();
-        while(helper.size()>0){
-            st.push(helper.top());
-            helper.pop();
-        }
+    int pop() {  //O(1)
+        int x =st.top();
+        st.pop();
         return x;
     }
     
-    int peek() { //front
-        //retrieve at bottom
-        while(st.size()>0){
-            helper.push(st.top());
-            st.pop();
-        }
-        int x= helper.top();
-        while(helper.size()>0){
-            st.push(helper.top());
-            helper.pop();
-        }
-        return x;
-        
+    int peek() { //front  O(1)
+        return st.top();
+         
     }
     
     bool empty() {
