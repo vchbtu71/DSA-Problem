@@ -54,6 +54,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -278,6 +279,7 @@
 | [0739-daily-temperatures](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -326,6 +328,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0622-design-circular-queue/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,4 +359,8 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0155-min-stack/) | Medium |
 | [0622-design-circular-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0622-design-circular-queue/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
