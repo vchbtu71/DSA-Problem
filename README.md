@@ -128,6 +128,7 @@
 | [0409-longest-palindrome](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0520-detect-capital/) | Easy |
+| [0649-dota2-senate](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -199,6 +200,7 @@
 | [0409-longest-palindrome](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
+| [0649-dota2-senate](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
@@ -329,6 +331,7 @@
 | [0239-sliding-window-maximum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0622-design-circular-queue/) | Medium |
+| [0649-dota2-senate](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Queue
