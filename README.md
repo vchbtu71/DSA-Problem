@@ -47,6 +47,7 @@
 | [0875-koko-eating-bananas](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0986-interval-list-intersections/) | Medium |
@@ -146,6 +147,7 @@
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -333,6 +335,7 @@
 | [0622-design-circular-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0622-design-circular-queue/) | Medium |
 | [0649-dota2-senate](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -368,5 +371,6 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
