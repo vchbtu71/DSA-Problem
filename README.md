@@ -306,6 +306,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0206-reverse-linked-list/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -324,6 +325,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Queue
