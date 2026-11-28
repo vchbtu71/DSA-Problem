@@ -376,4 +376,20 @@
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
